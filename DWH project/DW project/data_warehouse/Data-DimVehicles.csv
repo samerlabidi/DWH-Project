@@ -1,0 +1,43 @@
+﻿DimVehicles[Type_of_Vehicle_1],DimVehicles[Type_of_Vehicle_2],DimVehicles[Type_of_Vehicle_3],DimVehicles[Type_of_Vehicle_4],DimVehicles[VehicleID]
+Car,NO DATA,NO DATA,NO DATA,1
+Bus or coach (17 or more passenger seats),NO DATA,NO DATA,NO DATA,2
+Car,Car,NO DATA,NO DATA,3
+Bus or coach (17 or more passenger seats),Car,NO DATA,NO DATA,4
+Car,Motorcycle over 50cc and up to 125cc,NO DATA,NO DATA,5
+Goods vehicle 3.5 tonnes mgw and under,Car,Car,Car,6
+Car,Car,Car,Car,7
+Car,Taxi/Private hire car,NO DATA,NO DATA,8
+Car,Car,Car,NO DATA,9
+Taxi/Private hire car,NO DATA,NO DATA,NO DATA,10
+Car,Car,Goods vehicle 3.5 tonnes mgw and under,NO DATA,11
+Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw,Goods vehicle 3.5 tonnes mgw and under,NO DATA,NO DATA,12
+Car,Goods vehicle 3.5 tonnes mgw and under,Car,NO DATA,13
+Taxi/Private hire car,Taxi/Private hire car,NO DATA,NO DATA,14
+Car,Bus or coach (17 or more passenger seats),NO DATA,NO DATA,15
+Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw,NO DATA,NO DATA,NO DATA,16
+Motorcycle - Unknown CC,Car,NO DATA,NO DATA,17
+Agricultural vehicle (includes diggers etc.),NO DATA,NO DATA,NO DATA,18
+Goods vehicle 7.5 tonnes mgw and over,Car,NO DATA,NO DATA,19
+Car,Pedal cycle,NO DATA,NO DATA,20
+Goods vehicle 3.5 tonnes mgw and under,NO DATA,NO DATA,NO DATA,21
+Car,Taxi/Private hire car,Car,NO DATA,22
+Goods vehicle 7.5 tonnes mgw and over,NO DATA,NO DATA,NO DATA,23
+Car,Motorcycle over 500cc,NO DATA,NO DATA,24
+Goods vehicle 7.5 tonnes mgw and over,Pedal cycle,NO DATA,NO DATA,25
+Car,Vehicle or pillion passenger,NO DATA,NO DATA,26
+Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw,Car,Goods vehicle 3.5 tonnes mgw and under,NO DATA,27
+Pedal cycle,Car,NO DATA,NO DATA,28
+Goods vehicle 3.5 tonnes mgw and under,Car,NO DATA,NO DATA,29
+Motorcycle over 500cc,Car,NO DATA,NO DATA,30
+Pedal cycle,Goods vehicle 3.5 tonnes mgw and under,NO DATA,NO DATA,31
+Motorcycle over 500cc,Goods vehicle 3.5 tonnes mgw and under,NO DATA,NO DATA,32
+Other Vehicle,Goods vehicle 7.5 tonnes mgw and over,NO DATA,NO DATA,33
+Goods vehicle 3.5 tonnes mgw and under,Car,Car,NO DATA,34
+Car,Goods vehicle 3.5 tonnes mgw and under,NO DATA,NO DATA,35
+Car,Car,Goods vehicle 3.5 tonnes mgw and under,Car,36
+Motorcycle over 50cc and up to 125cc,Car,NO DATA,NO DATA,37
+Car,Goods vehicle 3.5 tonnes mgw and under,Car,Car,38
+Pedal cycle,NO DATA,NO DATA,NO DATA,39
+Motorcycle over 500cc,NO DATA,NO DATA,NO DATA,40
+Goods vehicle 3.5 tonnes mgw and under,Pedal cycle,NO DATA,NO DATA,41
+Car,Motorcycle over 500cc,Car,NO DATA,42

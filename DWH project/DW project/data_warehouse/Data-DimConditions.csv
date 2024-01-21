@@ -1,0 +1,16 @@
+﻿DimConditions[Lighting_Conditions],DimConditions[Weather_Conditions],DimConditions[ConditionsID]
+Darkness: no street lighting,Fine without high winds,1
+Darkness: street lights present and lit,Fine without high winds,2
+Daylight: street lights present,Fine without high winds,3
+Darkness: street lights present and lit,Raining with high winds,4
+Darkness: street lights present and lit,Raining without high winds,5
+Daylight: street lights present,Raining without high winds,6
+Darkness: street lights present and lit,Fog or mist ??? if hazard,7
+Darkness: street lighting unknown,Fine without high winds,8
+Daylight: street lights present,Fine with high winds,9
+Daylight: street lights present,Raining with high winds,10
+Darkness: street lights present and lit,Fine with high winds,11
+Darkness:street lights present and lit,Fine without high winds,12
+Darkness: no street lighting,Raining with high winds,13
+Darkness: street lights present and lit,Fog or mist - if hazard,14
+Daylight: street lights present,Snowing with high winds,15

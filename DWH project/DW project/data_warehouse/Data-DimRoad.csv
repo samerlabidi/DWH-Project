@@ -1,0 +1,17 @@
+﻿DimRoad[_st_Road_Class],DimRoad[Road_Surface],DimRoad[RoadID]
+A,Dry,1
+Unclassified,Dry,2
+Motorway,Wet / Damp,3
+Motorway,Dry,4
+B,Wet / Damp,5
+A,Wet / Damp,6
+Unclassified,Wet / Damp,7
+Unclassified,Frost / Ice,8
+Unclassified,Wet / Damp,9
+B,Dry,10
+A,Wet / Damp,11
+A,Frost / Ice,12
+Motorway,Wet / Damp,13
+Unclassified,Snow,14
+Unclassified,Wet  / damp,15
+B,Wet / Damp,16

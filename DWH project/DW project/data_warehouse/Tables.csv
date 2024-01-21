@@ -1,0 +1,8 @@
+Name,IsHidden,StorageMode,IsCalculated
+DimLocation,False,Import,False
+FactCollisions,False,Import,False
+DimConditions,False,Import,False
+DimRoad,False,Import,False
+DimVehicles,False,Import,False
+Casualties,False,Import,False
+DateDim,False,Import,False

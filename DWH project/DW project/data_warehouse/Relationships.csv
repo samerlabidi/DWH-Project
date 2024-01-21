@@ -1,0 +1,7 @@
+FromTable,ToTable,FromColumn,ToColumn,Cardinality,IsActive
+FactCollisions,DimLocation,LocationID,LocationID,One-to-Many,True
+FactCollisions,DimConditions,ConditionsID,ConditionsID,One-to-Many,True
+FactCollisions,DimRoad,RoadID,RoadID,One-to-Many,True
+FactCollisions,DimVehicles,VehicleID,VehicleID,One-to-Many,True
+Casualties,FactCollisions,Casualties_ID,CasualtiesID,Many-to-Many,True
+FactCollisions,DateDim,DateID,DateID,One-to-Many,True
